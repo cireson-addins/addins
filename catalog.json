@@ -13,11 +13,13 @@
             },
             {
                 "ExtensionVersion": "1.2.0",
-                "MinPortalVersion" : "9.0.0"
+                "MinPortalVersion" : "9.0.0",
+                "DownloadPath" : ""
             },
             {
                 "ExtensionVersion": "1.3.0",
-                "MinPortalVersion" : "9.7.0"
+                "MinPortalVersion" : "9.7.0",
+                "DownloadPath" : ""
             }
         ]
     },
