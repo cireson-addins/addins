@@ -4,6 +4,6 @@
 
 ## What Add Ins are available?
 
-[View the catalog here](../blob/master/catalog.md)
+[View the catalog here](../master/catalog.md)
 
 ## Install Guide
