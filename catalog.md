@@ -1,1 +1,1 @@
-1. [Resolve Task](../blob/master/ResolveTask/Readme.md)
+1. [Resolve Task](../master/ResolveTask/Readme.md)
